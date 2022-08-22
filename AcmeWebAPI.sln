@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeWebAPI", "AcmeWebAPI\AcmeWebAPI.csproj", "{EF089F26-6348-4246-825F-3774ED39CCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF089F26-6348-4246-825F-3774ED39CCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF089F26-6348-4246-825F-3774ED39CCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF089F26-6348-4246-825F-3774ED39CCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF089F26-6348-4246-825F-3774ED39CCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814CB985-E039-4FA0-B8DA-136F157187AE}
+	EndGlobalSection
+EndGlobal
